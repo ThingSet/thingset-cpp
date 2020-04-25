@@ -1,3 +1,7 @@
+# Warning: Repository moved!
+
+This library has been moved to [LibreSolar/thingset-device-library](https://github.com/LibreSolar/thingset-device-library) and is now read-only. Updates only go to the new repository location.
+
 # C++ library for the ThingSet Protocol
 
 ![Travis CI build badge](https://travis-ci.com/ThingSet/thingset-cpp.svg?branch=master)
